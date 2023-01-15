@@ -10,7 +10,7 @@ This app requires Node.js and Inquirer 8.2.4
 ## Usage
 This is a CLI application
 
-[README generator walk thru.webm](https://user-images.githubusercontent.com/22803118/212503536-1b19e699-56d6-4592-bf66-3b5e329bb64d.webm)
+[Team Generator Walk Thru.webm](https://user-images.githubusercontent.com/22803118/212504645-ead28f6d-bc14-4931-bfc6-c4f93ecb9364.webm)
 
 ## Testing
 Jest
